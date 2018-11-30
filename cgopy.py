@@ -1,3 +1,4 @@
+# https://github.com/tamihiro/gobgp_grpc_demo/blob/master/cgopy.py
 __all__ = [ 'libgobgp', '_PATTRS_CAP', '_AF_NAME', 'Buf', 'Path', 'unpack_buf', 'protobuf_obj_attrs', ]
 
 from ctypes import c_int, c_char, c_char_p, POINTER, Structure, cdll
